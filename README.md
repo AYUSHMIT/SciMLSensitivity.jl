@@ -14,6 +14,22 @@ SciMLSensitivity.jl is a component package in the [SciML Scientific Machine Lear
 It holds the sensitivity analysis utilities. Users interested in using this
 functionality should check out [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/).
 
+## 🎨 Beautiful Exploratory Demo
+
+**NEW!** Check out our comprehensive, interactive demo that showcases the power of SciMLSensitivity.jl:
+
+📂 **[Explore the Demo →](demo/README.md)**
+
+The demo includes:
+- 🦋 Lotka-Volterra predator-prey dynamics
+- 📊 Forward and adjoint sensitivity analysis
+- 🧠 Neural ordinary differential equations
+- 🎯 Parameter estimation from noisy data
+- 🌊 Performance comparison of algorithms
+- 🎨 Beautiful visualizations and explanations
+
+Perfect for learning, teaching, or showcasing to colleagues!
+
 ## Tutorials and Documentation
 
 For information on using the package,
