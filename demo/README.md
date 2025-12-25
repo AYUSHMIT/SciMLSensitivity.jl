@@ -2,6 +2,8 @@
 
 This directory contains a comprehensive, creative demo showcasing the power and versatility of **SciMLSensitivity.jl** - Julia's premier package for automatic differentiation and sensitivity analysis of differential equations.
 
+> 📑 **New to the demo?** Check out [INDEX.md](INDEX.md) for a complete guide to all resources and suggested learning paths!
+
 ## 🎯 What's Inside
 
 This demo explores:
